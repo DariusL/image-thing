@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Image</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Image</string>
+    <string-array name="image_modes">
+        <item>Crop</item>
+        <item>Fill</item>
+        <item>Inside</item>
+        <item>Original</item>
+    </string-array>
+</resources>
